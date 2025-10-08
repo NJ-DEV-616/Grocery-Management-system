@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Admin",
+        "email": "admin@grocery.com",
+        "password": "Admin@123",
+        "admin": true
+    },
+    {
+        "name": "Ram",
+        "email": "ram246@gmail.com",
+        "password": "Ram@1234",
+        "admin": false
+    },
+    {
+        "name": "David",
+        "email": "david@gmail.com",
+        "password": "David@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex99@gmail.com",
+        "password": "Alex@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex1@gmail.com",
+        "password": "Alex@456",
+        "admin": false
+    },
+    {
+        "name": "David",
+        "email": "david@gmail.com",
+        "password": "David@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex321@gmail.com",
+        "password": "Alex@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex353@gmail.com",
+        "password": "Alex@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex22@gmail.com",
+        "password": "Alex@456",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex12@gmail.com",
+        "password": "Alex@123",
+        "admin": false
+    },
+    {
+        "name": "Alex",
+        "email": "alex99@gmail.com",
+        "password": "Alex@123",
+        "admin": false
+    }
+]
