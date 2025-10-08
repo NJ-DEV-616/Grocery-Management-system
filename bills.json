@@ -1,0 +1,199 @@
+[
+    {
+        "email": "ram246@gmail.com",
+        "name": "Ram",
+        "bills": [
+            {
+                "date": "25-09-28 11-36-58",
+                "items": [
+                    {
+                        "name": "Sunflower Oil",
+                        "quantity": 1,
+                        "unit": "L",
+                        "price": 240.0,
+                        "total": 240.0
+                    }
+                ],
+                "grand_total": 240.0
+            }
+        ]
+    },
+    {
+        "email": "alex@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-02 16-25-01",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 1,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 105.0
+                    },
+                    {
+                        "name": "Sunflower Oil",
+                        "quantity": 3,
+                        "unit": "L",
+                        "price": 240.0,
+                        "total": 720.0
+                    }
+                ],
+                "grand_total": 825.0
+            }
+        ]
+    },
+    {
+        "email": "alex123@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 06-16-58",
+                "items": [
+                    {
+                        "name": "Sunflower Oil",
+                        "quantity": 1,
+                        "unit": "L",
+                        "price": 240.0,
+                        "total": 240.0
+                    }
+                ],
+                "grand_total": 240.0
+            }
+        ]
+    },
+    {
+        "email": "david123@gmail.com",
+        "name": "David",
+        "bills": [
+            {
+                "date": "25-10-04 06-36-06",
+                "items": [
+                    {
+                        "name": "Cricket Ball",
+                        "quantity": 5,
+                        "unit": "pcs",
+                        "price": 100.0,
+                        "total": 500.0
+                    }
+                ],
+                "grand_total": 500.0
+            }
+        ]
+    },
+    {
+        "email": "alex1@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 11-21-47",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 5,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 525.0
+                    }
+                ],
+                "grand_total": 525.0
+            }
+        ]
+    },
+    {
+        "email": "david@gmail.com",
+        "name": "David",
+        "bills": [
+            {
+                "date": "25-10-04 11-51-40",
+                "items": [
+                    {
+                        "name": "Pen",
+                        "quantity": 3,
+                        "unit": "pcs",
+                        "price": 10.0,
+                        "total": 30.0
+                    }
+                ],
+                "grand_total": 30.0
+            }
+        ]
+    },
+    {
+        "email": "alex321@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 12-05-28",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 5,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 525.0
+                    }
+                ],
+                "grand_total": 525.0
+            }
+        ]
+    },
+    {
+        "email": "alex353@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 12-17-57",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 5,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 525.0
+                    }
+                ],
+                "grand_total": 525.0
+            }
+        ]
+    },
+    {
+        "email": "alex12@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 13-11-36",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 5,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 525.0
+                    }
+                ],
+                "grand_total": 525.0
+            }
+        ]
+    },
+    {
+        "email": "alex99@gmail.com",
+        "name": "Alex",
+        "bills": [
+            {
+                "date": "25-10-04 13-22-44",
+                "items": [
+                    {
+                        "name": "Apple",
+                        "quantity": 2,
+                        "unit": "kg",
+                        "price": 105.0,
+                        "total": 210.0
+                    }
+                ],
+                "grand_total": 210.0
+            }
+        ]
+    }
+]
