@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Apple",
+        "amount": 20.0,
+        "unit": "kg",
+        "rate": 105.0
+    },
+    {
+        "name": "Sunflower Oil",
+        "amount": 30,
+        "unit": "L",
+        "rate": 240.0
+    },
+    {
+        "name": "Rice",
+        "amount": 40.0,
+        "unit": "kg",
+        "rate": 120.0
+    },
+    {
+        "name": "Cricket Ball",
+        "amount": 10.0,
+        "unit": "pcs",
+        "rate": 100.0
+    },
+    {
+        "name": "Pen",
+        "amount": 17.0,
+        "unit": "pcs",
+        "rate": 10.0
+    },
+    {
+        "name": "Milk",
+        "amount": 20.0,
+        "unit": "L",
+        "rate": 120.0
+    },
+    {
+        "name": "Wheat Flour",
+        "amount": 30.0,
+        "unit": "kg",
+        "rate": 100.0
+    },
+    {
+        "name": "Pasta",
+        "amount": 10.0,
+        "unit": "kg",
+        "rate": 120.0
+    },
+    {
+        "name": "Egg",
+        "amount": 30.0,
+        "unit": "pcs",
+        "rate": 20.0
+    }
+]
